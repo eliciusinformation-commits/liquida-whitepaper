@@ -16,18 +16,6 @@ site:
           content:
             directory: ./
     - type: section
-      key: section-2
-      title: "Liquida support "
-      path: founding-team
-      children:
-        - type: space
-          key: space-1
-          title: Help Center
-          path: help-center
-          default: true
-          content:
-            directory: ./founding-team/help-center
-    - type: section
       key: section-3
       title: Founding team
       path: founding-team-1
@@ -47,3 +35,15 @@ site:
           draft: true
           content:
             directory: ./founding-team-1/api-reference
+    - type: section
+      key: section-2
+      title: "Liquida support "
+      path: founding-team
+      children:
+        - type: space
+          key: space-1
+          title: Help Center
+          path: help-center
+          default: true
+          content:
+            directory: ./founding-team/help-center
