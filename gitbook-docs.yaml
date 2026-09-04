@@ -25,6 +25,5 @@ site:
           title: Help Center
           path: help-center
           default: true
-          draft: true
           content:
             directory: ./founding-team/help-center
