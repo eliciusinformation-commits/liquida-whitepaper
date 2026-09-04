@@ -40,3 +40,10 @@ site:
           draft: true
           content:
             directory: ./founding-team-1/product-docs
+        - type: space
+          key: space-3
+          title: Seed Investor Patricio, Rogelio S.
+          path: api-reference
+          draft: true
+          content:
+            directory: ./founding-team-1/api-reference
