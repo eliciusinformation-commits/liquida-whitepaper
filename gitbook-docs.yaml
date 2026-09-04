@@ -1,10 +1,10 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: Liquida Exchange Whitepaper
   structure:
     - type: space
-      key: liquida-whitepaper-space
+      key: liquida-whitepaper
       title: Liquida Exchange Whitepaper
       path: /
+      default: true
       content:
         directory: ./
