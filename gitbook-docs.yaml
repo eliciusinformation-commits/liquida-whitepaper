@@ -31,7 +31,6 @@ site:
           title: Core Analyst Chiska Pelonio
           path: product-docs
           default: true
-          draft: true
           content:
             directory: ./founding-team-1/product-docs
             language: pt-br
