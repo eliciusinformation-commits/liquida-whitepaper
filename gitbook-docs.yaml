@@ -24,11 +24,12 @@ site:
           key: space-3
           title: Seed Investor Patricio, Rogelio S.
           path: api-reference
+          draft: true
           content:
             directory: ./founding-team-1/api-reference
         - type: space
           key: space-2
-          title: Core Analyst Chiska Pelonio
+          title: Seed Investor Patricio, Rogelio S.
           path: product-docs
           default: true
           content:
