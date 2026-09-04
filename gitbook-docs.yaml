@@ -1,3 +1,6 @@
 root: ./
 structure:
   summary: SUMMARY.md
+sites:
+  - path: ./
+    title: Liquida Exchange Whitepaper
