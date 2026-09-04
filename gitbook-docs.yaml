@@ -21,6 +21,13 @@ site:
       path: founding-team-1
       children:
         - type: space
+          key: space-3
+          title: Seed Investor Patricio, Rogelio S.
+          path: api-reference
+          draft: true
+          content:
+            directory: ./founding-team-1/api-reference
+        - type: space
           key: space-2
           title: Product Docs
           path: product-docs
@@ -28,13 +35,6 @@ site:
           draft: true
           content:
             directory: ./founding-team-1/product-docs
-        - type: space
-          key: space-3
-          title: Seed Investor Patricio, Rogelio S.
-          path: api-reference
-          draft: true
-          content:
-            directory: ./founding-team-1/api-reference
     - type: section
       key: section-2
       title: "Liquida support "
