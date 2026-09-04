@@ -4,11 +4,11 @@
 
 ## Getting Started
 
-* [Getting started](getting-started/getting-started.md)
-* [Quickstart](getting-started/quickstart.md)
-* [Your first project](getting-started/your-first-project.md)
+* [Protocol Overview](getting-started/protocol-overview.md)
+* [Platform Architecture](getting-started/platform-architecture.md)
+* [Quickstart Guide](getting-started/quickstart-guide.md)
 
 ## Core concepts
 
-* [Core concepts](core-concepts/core-concepts.md)
-* [Workspaces and projects](core-concepts/workspaces-and-projects.md)
+* [Market Dynamics](core-concepts/market-dynamics.md)
+* [Liquidity Pools](core-concepts/liquidity-pools.md)
