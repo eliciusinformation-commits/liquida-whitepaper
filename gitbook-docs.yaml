@@ -35,6 +35,7 @@ site:
           draft: true
           content:
             directory: ./founding-team-1/product-docs
+            language: pt-br
     - type: section
       key: section-2
       title: "Liquida support "
