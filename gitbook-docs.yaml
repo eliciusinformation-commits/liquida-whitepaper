@@ -17,7 +17,7 @@ site:
             directory: ./
     - type: section
       key: section-2
-      title: Founding Team
+      title: "Liquida support "
       path: founding-team
       children:
         - type: space
