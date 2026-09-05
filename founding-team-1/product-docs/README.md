@@ -15,12 +15,12 @@ Serving as a founding team member and financial strategist, leveraging academic 
 
 <button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question…</button>
 
-<button type="button" class="button secondary" data-action="ask" data-query="How do I deploy my first project" data-icon="rocket-launch">Build witb us</button><button type="button" class="button secondary" data-action="ask" data-query="How do I set up a custom domain" data-icon="globe">Trade responsibly</button><button type="button" class="button secondary" data-action="ask" data-query="How do I invite my team" data-icon="user-group">Invite your friends</button>
+<button type="button" class="button secondary" data-action="ask" data-query="How do I deploy my first project" data-icon="rocket-launch">Build with us</button><button type="button" class="button secondary" data-action="ask" data-query="How do I set up a custom domain" data-icon="globe">Trade responsibly</button><button type="button" class="button secondary" data-action="ask" data-query="How do I invite my team" data-icon="user-group">Invite your friends</button>
 
 ***
 
 {% hint style="success" icon="sparkles" %}
-Core and Development
+**Core and Development**
 
 * Lead Architect Pasaol, Anthony June
 * Lead Analyst Pelonio, Chiska
@@ -28,7 +28,3 @@ Core and Development
 
 <a href="https://gitbook.com/docs/changelog" class="button secondary">See what's new</a>
 {% endhint %}
-
-
-
-## Popular
