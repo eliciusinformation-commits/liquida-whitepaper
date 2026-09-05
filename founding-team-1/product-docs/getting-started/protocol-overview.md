@@ -1,23 +1,25 @@
 ---
-description: Set up your account and ship your first project in minutes.
+description: >-
+  New to Liquida Exchange? These pages walk you through the core infrastructure,
+  tokenomics, and mechanics required to execute trustless trades.  Quickstart
 icon: rocket-launch
 ---
 
-# Getting started
+# Protocol Overview
 
-New to the platform? These pages walk you through everything you need to know to ship something real.
+Initialize your decentralized trading environment and launch your first liquidity pools in minutes.
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><h4><i class="fa-rocket-launch" style="color:$primary;">:rocket-launch:</i></h4></td><td><strong>Quickstart</strong></td><td>Go from sign-up to your first deploy in under five minutes.</td></tr><tr><td><h4><i class="fa-compass" style="color:$primary;">:compass:</i></h4></td><td><strong>Your first project</strong></td><td>A guided walkthrough that takes you from an empty workspace to a configured, deployed project.</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><h4><i class="fa-rocket-launch" style="color:$primary;">:rocket-launch:</i></h4></td><td><strong>Quickstart</strong></td><td>Go from wallet connection to your first smart contract interaction in under five minutes..</td></tr><tr><td><h4><i class="fa-compass" style="color:$primary;">:compass:</i></h4></td><td><strong>Smart Contract Deployment</strong></td><td>A guided walkthrough that takes you from protocol setup to configured liquidity deployment.</td></tr></tbody></table>
 
 ## What you'll need
 
 Before you start, make sure you have:
 
-* [x] An account on the platform (free plans work fine)
-* [x] A repository or local project you'd like to deploy
-* [x] A few minutes of uninterrupted time
+* [x] An account on the platform free plans work fine
+* [x] A Web3 wallet connected to the network
+* [x] Sufficient testnet or native tokens for gas fees
 
 {% hint style="info" %}
-If you're evaluating the platform for your team rather than yourself, jump to [Core concepts](https://app.gitbook.com/s/AjhCnQT0gnusN4gi1dGe/core-concepts "mention") first — it'll save time when you set things up properly.
+A few minutes of uninterrupted time. A basic understanding of liquidity pool mechanics
 {% endhint %}
 
