@@ -22,9 +22,17 @@ Serving as a founding team member and financial strategist, leveraging academic 
 {% hint style="success" icon="sparkles" %}
 **Core and Development**
 
-* Lead Architect Pasaol, Anthony June
+* Lead Architect Pasaol, Anthony June&#x20;
+
+_Oversees protocol infrastructure and system design, ensuring scalable architecture and secure core mechanics for Liquida Exchange._
+
 * Lead Analyst Pelonio, Chiska
+
+_Manage market dynamics and tokenomics, evaluating liquidity pools, funding metrics, and protocol economics._
+
 * Lead Engineer Pamotongan, Krienznell Fernandez
+
+_Directs DEX transaction workflows, smart contract execution, and on-chain feature integration._
 
 <a href="https://gitbook.com/docs/changelog" class="button secondary">See what's new</a>
 {% endhint %}
