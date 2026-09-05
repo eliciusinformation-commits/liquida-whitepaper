@@ -1,16 +1,15 @@
 ---
 description: >-
-  A guided walkthrough that takes you from an empty workspace to a configured,
-  deployed project.
+  This walkthrough goes deeper than the Quickstart. By the end, you'll have a
+  real smart contract repository with environment variables, a custom compiler
+  build, and a preview deployment workflow.
 icon: compass
 ---
 
-# Your first project
-
-This walkthrough goes deeper than the [Quickstart](/broken/pages/d8dde992c3b506ec2b54b125e6aef8f498f18ed3). By the end, you'll have a real project with environment variables, a custom build, and a preview deployment workflow.
+# Quickstart Guide
 
 {% hint style="info" %}
-We'll use a generic web project for this tutorial. The same pattern works for static sites, APIs, and worker services.
+We'll use a generic liquidity pool project for this tutorial. The same pattern works for token contracts, staking vaults, and DEX routers.
 {% endhint %}
 
 ## 1. Plan your project structure
@@ -137,15 +136,3 @@ If you'd like to skip ahead and see a fully configured project, download our sam
 ## Where to go next
 
 Now that you have a working project, you can check out:
-
-{% content-ref url="/broken/pages/56a52747d54863f8df67ff3ce908938888c69b66" %}
-[Broken link](/broken/pages/56a52747d54863f8df67ff3ce908938888c69b66)
-{% endcontent-ref %}
-
-{% content-ref url="/broken/pages/d9d593aeabc52a165190bf8c93720491a4eb9682" %}
-[Broken link](/broken/pages/d9d593aeabc52a165190bf8c93720491a4eb9682)
-{% endcontent-ref %}
-
-{% content-ref url="/broken/pages/fb922e107b31a3e9e9fcf81410029e993b0a9afc" %}
-[Broken link](/broken/pages/fb922e107b31a3e9e9fcf81410029e993b0a9afc)
-{% endcontent-ref %}
