@@ -38,7 +38,7 @@ site:
             language: pt-br
     - type: section
       key: section-2
-      title: "Liquida support "
+      title: Liquida Support
       path: founding-team
       description: ""
       children:
