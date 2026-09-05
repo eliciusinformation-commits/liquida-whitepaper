@@ -3,9 +3,9 @@ description: Go from sign-up to your first deploy in under five minutes.
 icon: bolt
 ---
 
-# Quickstart
+# Platform Architecture
 
-This quickstart gets you to your first deploy as fast as possible. We'll skip most of the configuration — you can refine things later once you have something running.
+This quickstart gets your smart contract deployed as fast as possible. We'll skip most of the complex parameters — you can refine things later once your liquidity pool is running
 
 {% hint style="success" %}
 **Estimated time: 5 minutes.** All you need is an account and a project to deploy.
@@ -15,35 +15,39 @@ This quickstart gets you to your first deploy as fast as possible. We'll skip mo
 
 {% stepper %}
 {% step %}
-#### Create your workspace
+#### Initialize your smart contract project
 
-Sign in and create a new workspace. The workspace name appears in URLs and email notifications, so pick something recognisable.
+Sign in to your development environment and create a new contract repository. The contract name appears in network bytecode and deployment events, so pick something recognizable.
 
 ```
-yourcompany
+liquida-exchange-core
 ```
 {% endstep %}
 
 {% step %}
 #### Connect a source
 
-Link a repository from your version control provider, or upload a project directly.
+Link an existing smart contract repository from GitHub, or upload your Solidity files directly.
 
 {% tabs %}
-{% tab title="Repository" %}
-Click **Connect repository**, authenticate with your provider, and select the repository to import. The platform will detect your framework automatically.
+{% tab title="Code" %}
+Your contract will compile and deploy live to the blockchain network. You can verify source code or update pool parameters at any time.
 {% endtab %}
 
-{% tab title="Upload" %}
+{% tab title="Fund" %}
 Drag and drop a project folder, or use the CLI:
 
 ```bash
-platform deploy ./my-project
+mapping(address => uint256) public liquidityBalances;
 ```
 {% endtab %}
 
-{% tab title="Template" %}
-Browse the template gallery and click **Use template**. A new project will be created from the template in your workspace.
+{% tab title="Deploy" %}
+Solidity
+
+```
+0x71C3b78E94a2A383f982D5C92b1f8D9052b61592
+```
 {% endtab %}
 {% endtabs %}
 {% endstep %}
@@ -67,23 +71,8 @@ build:
 Hit **Deploy**. Your project will build and go live at a generated subdomain. You can promote it to production or add a custom domain at any time.
 
 {% hint style="info" %}
-First builds typically take 1–3 minutes. Subsequent builds are faster because dependencies are cached.
+Disclaimer: Liquida Exchange is a decentralized protocol operated at your own risk. The core team and contributors assume no liability for financial loss, impermanent loss, smart contract vulnerabilities, or market volatility.
 {% endhint %}
 {% endstep %}
 {% endstepper %}
 
-## What's next?
-
-You've shipped something — now make it yours.
-
-{% content-ref url="/broken/pages/56a52747d54863f8df67ff3ce908938888c69b66" %}
-[Broken link](/broken/pages/56a52747d54863f8df67ff3ce908938888c69b66)
-{% endcontent-ref %}
-
-{% content-ref url="/broken/pages/fb922e107b31a3e9e9fcf81410029e993b0a9afc" %}
-[Broken link](/broken/pages/fb922e107b31a3e9e9fcf81410029e993b0a9afc)
-{% endcontent-ref %}
-
-{% content-ref url="/broken/pages/d9d593aeabc52a165190bf8c93720491a4eb9682" %}
-[Broken link](/broken/pages/d9d593aeabc52a165190bf8c93720491a4eb9682)
-{% endcontent-ref %}
