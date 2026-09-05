@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Seed investor Patricio, Rogelio S](README.md)
+* [Seed Investor Patricio, Rogelio S.](README.md)
 
 ## Getting Started
 
